@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "title": "Esports Championship",
+        "description": "Join the most anticipated gaming event of the year! The Esports Championship is a thrilling spectacle that brings together the world's top esports teams and players to compete for fame, glory, and a staggering prize pool of $100,000. Whether you're a die-hard esports fan or new to the scene, this event promises non-stop action and excitement.\n\nDate: November 15th - November 20th, 2023\n\nParticipant Age Range: 16-30\n\nFree or Paid: Paid\n\nPrize Pool: $100,000\n\nPrepare to witness jaw-dropping plays, intense rivalries, and epic clashes in popular games like League of Legends, Counter-Strike, and Dota 2. Don't miss your chance to be part of esports history!",
+        "img": "https://i.ibb.co/41SHw4w/esports.jpg",
+        "time_period": "2023-11-15 to 2023-11-20",
+        "participant_age_range": "16-30",
+        "free_or_paid": "Paid",
+        "price_pool": "$100,000"
+    },
+    {
+        "id": 2,
+        "title": "VR Gaming Expo",
+        "description": "Step into the future at the VR Gaming Expo! Immerse yourself in the cutting-edge world of virtual reality gaming. From mind-bending experiences to the latest VR hardware, this event is a paradise for tech enthusiasts and gamers alike.\n\nDate: December 5th - December 8th, 2023\n\nParticipant Age Range: 18+\n\nFree or Paid: Free\n\nPrize Pool: N/A\n\nExplore breathtaking virtual worlds, interact with innovative VR tech, and meet developers pushing the boundaries of immersion. Whether you're a VR veteran or a curious newcomer, this expo offers an unforgettable journey into the limitless possibilities of VR gaming.",
+        "img": "https://i.ibb.co/vsBzf9D/vwwnh-QUer-NFbh-BVw-Dw-CHRl-XZ6-Alq-Hv1le3bo-W2ba.png",
+        "time_period": "2023-12-05 to 2023-12-08",
+        "participant_age_range": "18+",
+        "free_or_paid": "Free",
+        "price_pool": "N/A"
+    },
+    {
+        "id": 3,
+        "title": "Mobile Gaming Tournament",
+        "description": "Compete for mobile gaming supremacy in the Mobile Gaming Tournament! Show off your skills in popular mobile titles and vie for a generous prize pool of $20,000. Gamers of all levels are welcome to participate.\n\nDate: October 25th - October 27th, 2023\n\nParticipant Age Range: 12-25\n\nFree or Paid: Paid\n\nPrize Pool: $20,000\n\nJoin us for intense battles in games like PUBG Mobile, Mobile Legends, and Clash Royale. Whether you're a mobile gaming pro or looking to make a name for yourself, this tournament is your chance to shine.",
+        "img": "https://i.ibb.co/XxPrqGz/2019041067afc74ab5aef5f07e4f3eb529f4723a-1.jpg",
+        "time_period": "2023-10-25 to 2023-10-27",
+        "participant_age_range": "12-25",
+        "free_or_paid": "Paid",
+        "price_pool": "$20,000"
+    },
+    {
+        "id": 4,
+        "title": "Retro Gaming Festival",
+        "description": "Step back in time at the Retro Gaming Festival! Relive the nostalgia of classic video games, from iconic 8-bit adventures to pixelated masterpieces. This family-friendly event welcomes gamers of all ages.\n\nDate: November 2nd - November 4th, 2023\n\nParticipant Age Range: All Ages\n\nFree or Paid: Free\n\nPrize Pool: N/A\n\nDiscover the magic of retro gaming, play your childhood favorites, and explore the history of gaming with fellow enthusiasts. Don't miss out on this journey through gaming's golden era!",
+        "img": "https://i.ibb.co/XJNcDKd/5-IPU6-N57-OVCOXH46-RDUJRI4-YRY.jpg",
+        "time_period": "2023-11-02 to 2023-11-04",
+        "participant_age_range": "All Ages",
+        "free_or_paid": "Free",
+        "price_pool": "N/A"
+    },
+    {
+        "id": 5,
+        "title": "Game Developer Conference",
+        "description": "Unleash your creativity at the Game Developer Conference (GDC)! Connect with industry professionals, learn about the latest trends, and showcase your own game projects. Whether you're an aspiring developer or an industry veteran, GDC has something for everyone.\n\nDate: December 10th - December 12th, 2023\n\nParticipant Age Range: 18+\n\nFree or Paid: Paid\n\nPrize Pool: Varies\n\nExplore cutting-edge technology, attend insightful panels, and network with game industry leaders. GDC is your gateway to the world of game development!",
+        "img": "https://i.ibb.co/GvBCmfY/GDC23-Facebook-1200x628.png",
+        "time_period": "2023-12-10 to 2023-12-12",
+        "participant_age_range": "18+",
+        "free_or_paid": "Paid",
+        "price_pool": "Varies"
+    },
+    {
+        "id": 6,
+        "title": "Epic LAN Party",
+        "description": "Get ready for an Epic LAN Party like no other! Join us for a weekend of gaming, tournaments, and thrilling competitions. With a prize pool of $15,000 up for grabs, this is your chance to prove your skills and make new friends in the gaming community.\n\nDate: November 30th - December 2nd, 2023\n\nParticipant Age Range: 16-35\n\nFree or Paid: Paid\n\nPrize Pool: $15,000\n\nExperience the adrenaline of LAN gaming, compete in your favorite titles, and enjoy a gaming event that's epic in every sense!",
+        "img": "https://i.ibb.co/Cw8f28Q/Eg-WTb-F-Xs-AA-9iy.jpg",
+        "time_period": "2023-11-30 to 2023-12-02",
+        "participant_age_range": "16-35",
+        "free_or_paid": "Paid",
+        "price_pool": "$15,000"
+    },
+    {
+        "id": 7,
+        "title": "Online Chess Championship",
+        "description": "Enter the world of strategic brilliance at the Online Chess Championship! Test your chess skills against players from around the globe in a battle for supremacy. With a prize pool of $25,000, this championship offers not only prestige but also substantial rewards.\n\nDate: December 1st - December 10th, 2023\n\nParticipant Age Range: All Ages\n\nFree or Paid: Paid\n\nPrize Pool: $25,000\n\nPrepare your openings, refine your endgames, and outwit your opponents in this prestigious online chess event. Are you ready to checkmate your way to victory?",
+        "img": "https://i.ibb.co/nQK0X18/63339982-605.jpg",
+        "time_period": "2023-12-01 to 2023-12-10",
+        "participant_age_range": "All Ages",
+        "free_or_paid": "Paid",
+        "price_pool": "$25,000"
+    },
+    
+    {
+        "id": 8,
+        "title": "Speedrunning Marathon",
+        "description": "Witness the thrill of speedrunning at the Speedrunning Marathon! Top runners from around the world will attempt record-breaking feats in your favorite games, all while raising funds for charity. Join the excitement and support a good cause.\n\nDate: November 18th - November 20th, 2023\n\nParticipant Age Range: All Ages\n\nFree or Paid: Free\n\nPrize Pool: Donations\n\nWatch in awe as gamers conquer challenges, and contribute to charitable organizations in the process. Gaming has never been this heartwarming!",
+        "img": "https://i.ibb.co/myxghM5/dwxtzg9wwaag-ho-jpg-large-h-2019.webp",
+        "time_period": "2023-11-18 to 2023-11-20",
+        "participant_age_range": "All Ages",
+        "free_or_paid": "Free",
+        "price_pool": "Donations"
+    },
+    {
+        "id": 9,
+        "title": "Cosplay Gaming Expo",
+        "description": "Unleash your inner hero at the Cosplay Gaming Expo! This event is a haven for gamers and cosplay enthusiasts alike. Dive into a world of creativity, meet like-minded individuals, and celebrate your favorite gaming characters.\n\nDate: October 28th - October 30th, 2023\n\nParticipant Age Range: 14+\n\nFree or Paid: Paid\n\nPrize Pool: $10,000\n\nShowcase your cosplay skills, participate in competitions, and immerse yourself in a community that shares your passion for gaming and cosplay.",
+        "img": "https://i.ibb.co/n76hLGw/190331-UK-Games-Expo-19-0208-2-2e16d0ba-fill-1200x630.jpg",
+        "time_period": "2023-10-28 to 2023-10-30",
+        "participant_age_range": "14+",
+        "free_or_paid": "Paid",
+        "price_pool": "$10,000"
+    }
+]

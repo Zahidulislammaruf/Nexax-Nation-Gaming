@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "First-Person Shooter",
+        "genre": "Action",
+        "description": "Experience intense, fast-paced action in first-person shooter games. Dive into immersive worlds and engage in epic battles using a variety of weapons and tactics.",
+        "platform": "PC, Xbox, PlayStation, Nintendo Switch",
+        "img": "https://i.ibb.co/5M5HcZP/The-Best-First-Person-Shooter-PS4-Games.jpg",
+        "games": ["COD: Warzone", "Overwatch", "Doom"]
+    },
+    {
+        "id": 2,
+        "title": "Role-Playing Game (RPG)",
+        "genre": "Role-Playing",
+        "description": "Embark on epic quests, build your character, and make impactful choices in role-playing games. Immerse yourself in rich storytelling and character development.",
+        "platform": "PC, Xbox, PlayStation, Nintendo Switch",
+        "img": "https://i.ibb.co/BCYfbC7/The-Witcher3-Geralt-2.jpg",
+        "games": ["The Elder Scrolls V: Skyrim", "The Witcher 3: Wild Hunt", "Dark Souls III"]
+    },
+    {
+        "id": 3,
+        "title": "Strategy",
+        "genre": "Strategy",
+        "description": "Test your strategic thinking and decision-making skills in strategy games. Whether you prefer real-time or turn-based gameplay, strategy games offer challenging scenarios.",
+        "platform": "PC, Xbox, PlayStation, Mobile",
+        "img": "https://i.ibb.co/4NN1wFF/595936-920145-20040901-001.jpg",
+        "games": ["Civilization VI", "StarCraft II", "Total War: Three Kingdoms", "XCOM 2"]
+    },
+    {
+        "id": 4,
+        "title": "Sports and Racing",
+        "genre": "Sports",
+        "description": "Compete in sports simulations and high-speed racing games. Experience the thrill of victory and the excitement of competition in realistic sports and racing titles.",
+        "platform": "PC, Xbox, PlayStation, Nintendo Switch",
+        "img": "https://i.ibb.co/1MZZ6Sb/porsche-normal.jpg",
+        "games": ["FIFA 22", "NBA 2K22", "Forza Horizon 5", "Gran Turismo 7"]
+    },
+    {
+        "id": 5,
+        "title": "Adventure",
+        "genre": "Adventure",
+        "description": "Embark on epic journeys, solve puzzles, and uncover mysteries in adventure games. Explore fantastical worlds and engage with captivating narratives.",
+        "platform": "PC, Xbox, PlayStation, Nintendo Switch",
+        "img": "https://i.ibb.co/PtF0GpS/God-of-War-2.jpg",
+        "games": ["The Legend of Zelda: Breath of the Wild", "Uncharted 4: A Thief's End", "Red Dead Redemption 2", "Tomb Raider (2013)"]
+    },
+    {
+        "id": 6,
+        "title": "Simulation",
+        "genre": "Simulation",
+        "description": "Experience life-like simulations in a variety of settings, from city building to flight. Simulation games offer a chance to immerse yourself in realistic scenarios.",
+        "platform": "PC, Xbox, PlayStation, Mobile",
+        "img": "https://i.ibb.co/44203F9/download-4.jpg",
+        "games": ["The Sims 4", "Cities: Skylines", "Microsoft Flight Simulator", "Euro Truck Simulator 2"]
+    }
+]

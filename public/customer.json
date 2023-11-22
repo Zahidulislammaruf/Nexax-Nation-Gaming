@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "img": "https://i.ibb.co/FYZwyk0/Realistic-Male-Profile-Picture.webp",
+      "review": "Excellent service! The team at Nexus Nation organized an amazing gaming event that I thoroughly enjoyed. I can't wait for the next one.",
+      "date": "2023-03-15"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "img": "https://i.ibb.co/4Zc5v13/Fj-U2lkc-WYAg-NG6d.jpg",
+      "review": "I had a blast at the Nexus Nation gaming tournament. The competition was fierce, and the atmosphere was electric. Definitely coming back!",
+      "date": "2023-04-02"
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "img": "https://i.ibb.co/RBJdXQR/4e9f3e5c-53e2-45f9-b961-c7f0d4b0f9a5.jpg",
+      "review": "Nexus Nation knows how to create a welcoming gaming community. I've made so many friends through their community events. Highly recommended!",
+      "date": "2023-04-20"
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "img": "https://i.ibb.co/bzgYjxs/witch2.png",
+      "review": "The Nexus Nation team always goes above and beyond to make their events special. I've been to several showcases, and they never disappoint.",
+      "date": "2023-05-08"
+    }
+  ]
+  
